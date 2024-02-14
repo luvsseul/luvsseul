@@ -1,4 +1,6 @@
 ### Hi there 👋
+Hello! I'm a frontend developer residing in Ansan, Gyeonggi-do, South Korea.</br>
+<h2>The tech stack I have includes:</h2>
 <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
   <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
@@ -12,7 +14,6 @@
   <img src="https://img.shields.io/badge/fontawesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white">
   <img src="https://img.shields.io/badge/tailwindcss-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white">
   <img src="https://img.shields.io/badge/axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white">
-  <br>
 <!--
 **luvsseul/luvsseul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
